@@ -1,0 +1,68 @@
+      /* body {
+              overflow: hidden; */
+      
+      .dr {
+          float: left;
+          font-size: 120%;
+      }
+      
+      .tait {
+          float: right;
+          font-size: 120%;
+      }
+      
+      .wait {
+          float: left;
+          font-size: 120%;
+      }
+      
+      .butt {
+          float: right;
+          margin-left: 1%;
+          margin-top: -1%;
+          align-items: right;
+          font-size: 120%;
+      }
+      
+      .water {
+          align-items: left;
+          float: left;
+          width: 80%;
+          margin-top: -3%;
+          font-size: 120%;
+      }
+      
+      .nav {
+          align-items: right;
+          text-align: right;
+          justify-content: space-evenly;
+          display: flex;
+          background-color: rgb(251, 85, 99);
+          padding: 20px;
+          font-family: 'Pattaya', sans-serif;
+          font-size: 150%;
+      }
+      
+      .smart {
+          align-items: left;
+          float: left;
+          font-size: 120%;
+          width: 70%;
+          margin-top: -13%;
+      }
+      
+      .book {
+          align-items: right;
+          float: right;
+          width: 40%;
+          margin-top: -25%;
+          font-size: 120%;
+      }
+      
+      .bread {
+          align-items: right;
+          float: right;
+          width: 39%;
+          font-size: 120%;
+          margin-top: -30%;
+      }

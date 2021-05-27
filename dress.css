@@ -1,0 +1,90 @@
+      /* body {
+              overflow: hidden; */
+      
+      .dr {
+          float: left;
+          font-size: 120%;
+      }
+      
+      .tait {
+          float: right;
+          font-size: 120%;
+      }
+      
+      .wait {
+          float: left;
+          font-size: 120%;
+      }
+      
+      .butt {
+          float: right;
+          margin-left: 1%;
+          margin-top: -1%;
+          align-items: right;
+          font-size: 120%;
+      }
+      
+      .water {
+          align-items: right;
+          float: right;
+          width: 70%;
+          font-size: 120%;
+      }
+      
+      .nav {
+          align-items: right;
+          text-align: right;
+          justify-content: space-evenly;
+          display: flex;
+          background-color: rgb(251, 85, 99);
+          padding: 20px;
+          font-family: 'Pattaya', sans-serif;
+          font-size: 150%;
+      }
+      
+      .smart {
+          align-items: right;
+          float: right;
+          font-size: 400%;
+          margin-top: -300%;
+      }
+      
+      .book {
+          align-items: right;
+          float: right;
+          margin-top: -800%;
+          width: 90%;
+          font-size: 120%;
+      }
+      
+      .bread {
+          align-items: right;
+          margin-top: -300%;
+          font-size: 90%;
+      }
+      /* box-sizing: border-box; */
+      /* display: inline-block;
+    padding: 12px;
+    cursor: pointer;
+} */
+      /* a:hover {
+    background-color: rgb(214, 86, 154);
+}
+.dropdown {
+    position: relative;
+}
+.dropdown-content {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    text-align: left;
+    display: none;
+}
+.dropdown-content {
+    background-color: hotpink;
+    width: 100%;
+}
+.dropdown:hover.dropdown-content {
+    display: block;
+}
+*/
